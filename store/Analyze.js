@@ -1,1 +1,1 @@
-module.exports = require("../../store/Analyze")
+module.exports = require("../../Sanu/Analyze")
