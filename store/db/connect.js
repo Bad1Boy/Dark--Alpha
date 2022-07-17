@@ -1,1 +1,1 @@
-module.exports = require("../../../store/db/connect")
+module.exports = require("../../../Sanu/db/connect")
