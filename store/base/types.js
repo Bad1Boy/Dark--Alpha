@@ -1,1 +1,1 @@
-module.exports = require("../../../store/base/types")
+module.exports = require("../../../Sanu/base/types")
